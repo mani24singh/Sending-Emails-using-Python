@@ -1,4 +1,4 @@
-# Sending_Emails_using-python
+# Sending Emails using python
 A Python Script which we can use to send emails to our friends and family members.
 
 ## Install the Email package: from [pypi](https://pypi.org/project/emails/)
